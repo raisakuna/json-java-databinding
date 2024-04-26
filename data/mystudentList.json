@@ -1,0 +1,41 @@
+[
+{
+	"fullName": "John1",
+	"address": "New York1",
+	"isActive": true,
+	"phoneNo": [
+		"99322330",
+		"34523523"
+	],
+	"batch": {
+		"batchName": "spring and Hibernate",
+		"trainer": "Abhilash"
+	}
+	},
+	{
+	"fullName": "Adan",
+	"address": "Pennsylvania",
+	"isActive": true,
+	"phoneNo": [
+		"99322330",
+		"34523523"
+	],
+	"batch": {
+		"batchName": "spring and Hibernate",
+		"trainer": "Abhilash"
+	}
+	},
+	{
+	"fullName": "Sakuna",
+	"address": "north Carolina",
+	"isActive": true,
+	"phoneNo": [
+		"99322330",
+		"34523523"
+	],
+	"batch": {
+		"batchName": "spring and Hibernate",
+		"trainer": "Abhilash"
+	}
+	}
+]

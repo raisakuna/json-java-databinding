@@ -1,0 +1,13 @@
+{
+	"fullName": "John",
+	"address": "New York",
+	"isActive": true,
+	"phoneNo": [
+		"99322330",
+		"34523523"
+	],
+	"batch": {
+		"batchName": "spring and Hibernate",
+		"trainer": "Abhilash"
+	}
+	}
